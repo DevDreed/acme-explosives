@@ -1,0 +1,54 @@
+{
+    "products": [{
+        "id": 0,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 1,
+        "type": 1,
+        "name": "c4",
+        "description": "blow up stuff."
+    }, {
+        "id": 2,
+        "type": 1,
+        "name": "Dynamite",
+        "description": "Stick of fun."
+
+    }, {
+        "id": 3,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 4,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 5,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 6,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 7,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 8,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 9,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "promises",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dustin Reed <dmreedy1@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
